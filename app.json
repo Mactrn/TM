@@ -1,7 +1,7 @@
 {
-  "name": "سورس تليثون العرب الاصلي",
-  "description": "اهلا بك في تليثون العرب الأصلي { @iqthon }",
-  "logo": "https://telegra.ph/file/aa0ee1b06ddcdcb40189a.jpg",
+  "name": "سورس العابث",
+  "description": "اهلا بك في العابث الأصلي { @ALAPATH }",
+  "logo": "https://telegra.ph/file/8691a1d489c3f3873ae6b.jpg",
   "keywords": ["plugin","modular","productivity"],
   "repository": "https://github.com/help-iq2/telethon",
   "website": "#TODO",
@@ -61,7 +61,7 @@
   },{
     "url": "https://github.com/riganf/heroku-buildpack-p7zip"
   },{
-    "url": "https://github.com/rahulps1000/heroku-buildpack-nodejs"
+    "url": "https://github.com/Mactrn/IXI.git"
   },{
     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
